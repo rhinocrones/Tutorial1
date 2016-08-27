@@ -1,0 +1,1 @@
+Person [name=Sergiy, age=18] [Pat [name=bb, type=bb]]Person [name=Vova, age=28] [Pat [name=df, type=df]]Person [name=Petro, age=20] [Pat [name=af, type=af]]
